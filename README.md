@@ -8,7 +8,7 @@ This repository includes selected programming assignments developed for the **Re
 
 | Folder | Topic | Algorithms & Concepts |
 |--------|-------|------------------------|
-| `bandit-unfair-dice/` | K-armed Bandit with Unfair Dice | Epsilon-Greedy, Optimistic Initial Values, UCB |
+| `K-armed-Bandit/` | K-armed Bandit with Unfair Dice | Epsilon-Greedy, Optimistic Initial Values, UCB |
 | `grid-navigation-mdp/` | Robot Navigation in Grid World | Value Iteration, Policy Evaluation |
 | `soft-monte-carlo-pathfinding/` | Probabilistic Pathfinding (Goal A/B) | Monte Carlo First-Visit, Soft Policy, γ Sensitivity |
 | `golf-q-sarsa/` | 100m Golf Simulation | Q-Learning, SARSA, Soft Epsilon-Policy |
