@@ -1,4 +1,4 @@
-# K-Armed Bandit – Unfair Dice (RL Homework 1)
+# K-Armed Bandit – Unfair Dice 
 
 This project simulates a 6-armed bandit environment where the agent must learn the optimal action through repeated interaction. The die is **unfair**, and the reward is only given (+1) when the predicted action matches the true die outcome.
 
